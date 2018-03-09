@@ -1,4 +1,4 @@
-package com.vsquare;
+package com.vsquare.reader;
 
 public interface Reader<T> {
 
